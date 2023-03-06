@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: testRunner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 21.599 s <<< FAILURE! - in testRunner.TestRunner
+Advance Search Link #2(Ebay Home Page Scenarios #2)  Time elapsed: 19.745 s  <<< FAILURE!
+java.lang.AssertionError
+
